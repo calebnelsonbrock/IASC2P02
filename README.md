@@ -17,4 +17,5 @@ In conclusion, there seems to be a pattern with trends in the 1700s to 1800s com
 
 # Citations:
 Van Horn, Nicholas M., Aaron Beveridge, and Sean Morey. "Attention Ecology: Trend Circulation and the Virality Threshold." DHQ: Digital Humanities Quarterly. N.p., 2016. Web. 10 Mar. 2017. <http://www.digitalhumanities.org/dhq/vol/10/4/000271/000271.html>.
+
 Moretti, Franco. GRAPHS, MAPS, TREES. N.p.: n.p., 2003. Online.
