@@ -14,3 +14,7 @@ Feel free to change the height and width values or other styling below: -->
 <iframe style='width: 100%; height: 800px' src='//voyant-tools.org/?view=Cirrus&corpus=60661587967d5b19594edd535d904a4e'></iframe>
 
 In conclusion, there seems to be a pattern with trends in the 1700s to 1800s compared to trends in the 21st century. The pattern pertains to both time periods in very similar ways. A trend is created, it gains traction and eventually dies off after months or even years.
+
+# Citations:
+Van Horn, Nicholas M., Aaron Beveridge, and Sean Morey. "Attention Ecology: Trend Circulation and the Virality Threshold." DHQ: Digital Humanities Quarterly. N.p., 2016. Web. 10 Mar. 2017. <http://www.digitalhumanities.org/dhq/vol/10/4/000271/000271.html>.
+Moretti, Franco. GRAPHS, MAPS, TREES. N.p.: n.p., 2003. Online.
