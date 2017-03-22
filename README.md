@@ -2,7 +2,7 @@
 My name is Caleb Nelson and am currently a second year student at Brock University. Hobbies include graphics design, video games and football (American football, not soccer).
 
 # Blog
-[Blog Post] (publish blog post)
+[Blog Post] (blogpost.md)
 
 # Solo presentation
 [Slides] (reveal_working/index.html)
