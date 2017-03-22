@@ -5,4 +5,4 @@ My name is Caleb Nelson and am currently a second year student at Brock Universi
 blogpost/publish blog post
 
 # Solo presentation
-[Slide Deck] (reveal/index.html)
+[Slide Deck] (reveal_working/index.html)
