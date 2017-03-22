@@ -5,4 +5,4 @@ My name is Caleb Nelson and am currently a second year student at Brock Universi
 [Blog Post] (IASC2P02/blogpost.md)
 
 # Solo presentation
-[Slides] (E:\Brock\IASC 2P02\reveal_working\index.html)
+[Slides] (master/reveal_working/index.html)
