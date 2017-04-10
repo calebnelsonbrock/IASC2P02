@@ -8,3 +8,6 @@ For now, my major is Interactive Arts and Science and am currently in my second 
 
 # Solo presentation (Unfinished)
 [Slides](reveal_working/index.html)
+
+# Group presentation
+[Slides](https://brocku-my.sharepoint.com/personal/ng15fj_brocku_ca/_layouts/15/WopiFrame.aspx?docid=0fbbb61338617493da7bc80063e958e03&authkey=AbQduR6YxP174-JkBwFUPMs&action=view)
