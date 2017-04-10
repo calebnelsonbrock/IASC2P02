@@ -4,7 +4,7 @@ My name is Caleb Nelson and am currently a second year student at Brock Universi
 For now, my major is Interactive Arts and Science and am currently in my second year. I have had a change of heart for what I want to do and plan to switch schools and programs. With that said I want to be building computers for a living or work for any large computer company, from NVidia to MSI. Although in the requirements it says to assume I will continue in this field, I truly believe I have no place in the digital humanities. I am a hands-on creator, I like to build things, not think about how they’re built or how they were invented, etc. 
 
 # Blog (Featured Project)
-[Blog Post](blogpost.md)
+[Blog Post](IASC2P02/blogpost.md)
 
 # Solo presentation (Unfinished)
 [Slides](reveal_working/index.html)
